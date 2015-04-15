@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include\bsp\bsp.hpp" open="1" top="0" tabpos="4">
+		<Cursor position="3048" topLine="78" />
+	</File>
+	<File name="include\bsp\common.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="665" topLine="0" />
+	</File>
+	<File name="include\bsp\lumps.hpp" open="1" top="0" tabpos="2">
+		<Cursor position="1392" topLine="30" />
+	</File>
+	<File name="src\bsp.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="2891" topLine="0" />
+	</File>
+	<File name="src\lumps.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="597" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

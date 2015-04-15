@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1248725773 source:e:\projects\bsp\src\bsp.cpp
+	<iostream>
+	<bsp/bsp.hpp>
+
+1239051954 source:e:\projects\bsp\src\lumps.cpp
+
+1262134301 source:d:\projects\bsp\src\lumps.cpp
+	"bsp/lumps.hpp"
+
+1262096026 source:d:\projects\bsp\src\bsp.cpp
+	<iostream>
+	<bsp/bsp.hpp>
+
