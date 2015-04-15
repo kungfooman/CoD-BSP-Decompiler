@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BSP Decompiler" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\BSP Decompiler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DDEBUG" />
+				</Compiler>
+				<ExtraCommands>
+					<Add after='&quot;C:\Users\Taco\Desktop\upx&quot; &quot;D:\C\BSP Decompiler\bin\Debug\BSP Decompiler.exe&quot;' />
+				</ExtraCommands>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\BSP Decompiler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-O3" />
+					<Add option="-O2" />
+					<Add option="-O1" />
+					<Add option="-O" />
+					<Add option="-DRELEASE" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+				<ExtraCommands>
+					<Add after='&quot;C:\Users\Taco\Desktop\upx&quot; &quot;D:\C\BSP Decompiler\bin\Release\BSP Decompiler.exe&quot;' />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="lua51" />
+			<Add library="lua5.1" />
+			<Add library="boost_system" />
+			<Add library="boost_filesystem" />
+			<Add library="BSP" />
+		</Linker>
+		<Unit filename="cod.cpp" />
+		<Unit filename="cod.hpp" />
+		<Unit filename="common.cpp" />
+		<Unit filename="common.hpp" />
+		<Unit filename="console.cpp" />
+		<Unit filename="console.hpp" />
+		<Unit filename="lumps.cpp" />
+		<Unit filename="lumps.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="map.cpp" />
+		<Unit filename="map.hpp" />
+		<Unit filename="math.cpp" />
+		<Unit filename="math.hpp" />
+		<Unit filename="settings.cpp" />
+		<Unit filename="settings.hpp" />
+		<Unit filename="statistics.cpp" />
+		<Unit filename="statistics.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

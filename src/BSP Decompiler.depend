@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1265374732 source:d:\c\bsp decompiler\main.cpp
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<boost/filesystem.hpp>
+	<bsp/bsp.hpp>
+	"console.hpp"
+	"settings.hpp"
+	"statistics.hpp"
+	"lumps.hpp"
+	"map.hpp"
+
+1262086429 d:\c\bsp decompiler\console.hpp
+	<windows.h>
+
+1265381352 d:\c\bsp decompiler\settings.hpp
+	<string>
+	<vector>
+
+1265931095 source:d:\c\bsp decompiler\settings.cpp
+	"settings.hpp"
+	<stdio.h>
+	<lua/lua.h>
+	<lua/lualib.h>
+	<lua/lauxlib.h>
+
+1262113866 source:d:\c\bsp decompiler\console.cpp
+	"console.hpp"
+	<stdio.h>
+
+1262134666 source:d:\c\bsp decompiler\lumps.cpp
+	"lumps.hpp"
+	"console.hpp"
+	"common.hpp"
+	<cmath>
+
+1262096292 d:\c\bsp decompiler\lumps.hpp
+	<bsp/bsp.hpp>
+
+1263586782 d:\c\bsp decompiler\common.hpp
+	"settings.hpp"
+	"math.hpp"
+	<bsp/bsp.hpp>
+
+1262100820 d:\c\bsp decompiler\statistics.hpp
+	<bsp/bsp.hpp>
+
+1262739084 d:\c\bsp decompiler\map.hpp
+	<cmath>
+	<list>
+	<bsp/bsp.hpp>
+	"settings.hpp"
+
+1262184556 d:\c\bsp decompiler\math.hpp
+	<cmath>
+
+1267388414 source:d:\c\bsp decompiler\map.cpp
+	"console.hpp"
+	"map.hpp"
+	"math.hpp"
+	"common.hpp"
+	"cod.hpp"
+	<set>
+	<vector>
+
+1262181574 source:d:\c\bsp decompiler\math.cpp
+	"math.hpp"
+
+1263589184 source:d:\c\bsp decompiler\statistics.cpp
+	"console.hpp"
+	"statistics.hpp"
+	"math.hpp"
+	<ctime>
+
+1267387727 source:d:\c\bsp decompiler\common.cpp
+	"common.hpp"
+	"cod.hpp"
+	<sstream>
+	<string.h>
+
+1262732232 d:\c\bsp decompiler\tool_textures.hpp
+
+1262732562 source:d:\c\bsp decompiler\tool_textures.cpp
+	"tool_textures.hpp"
+	<string.h>
+
+1262739723 source:d:\c\bsp decompiler\cod.cpp
+	"cod.hpp"
+	<string.h>
+
+1262739758 d:\c\bsp decompiler\cod.hpp
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="cod.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="1146" topLine="80" />
+	</File>
+	<File name="cod.hpp" open="1" top="0" tabpos="13">
+		<Cursor position="149" topLine="0" />
+	</File>
+	<File name="common.cpp" open="1" top="1" tabpos="9">
+		<Cursor position="1628" topLine="33" />
+	</File>
+	<File name="common.hpp" open="1" top="0" tabpos="12">
+		<Cursor position="805" topLine="0" />
+	</File>
+	<File name="console.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="357" topLine="0" />
+	</File>
+	<File name="console.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="38" topLine="0" />
+	</File>
+	<File name="lumps.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="426" topLine="0" />
+	</File>
+	<File name="lumps.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="58" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1508" topLine="44" />
+	</File>
+	<File name="map.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="943" topLine="9" />
+	</File>
+	<File name="map.hpp" open="1" top="0" tabpos="7">
+		<Cursor position="519" topLine="0" />
+	</File>
+	<File name="math.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="324" topLine="0" />
+	</File>
+	<File name="math.hpp" open="1" top="0" tabpos="10">
+		<Cursor position="466" topLine="0" />
+	</File>
+	<File name="settings.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="6424" topLine="180" />
+	</File>
+	<File name="settings.hpp" open="1" top="0" tabpos="1">
+		<Cursor position="1025" topLine="12" />
+	</File>
+	<File name="statistics.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2974" topLine="26" />
+	</File>
+	<File name="statistics.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="72" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

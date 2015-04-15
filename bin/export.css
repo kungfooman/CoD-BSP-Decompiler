@@ -1,0 +1,48 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+pre {
+border-right: 2px solid silver;
+}
+
+h1 {
+font-size: 16pt;
+margin-bottom: 10px;
+padding: 5px;
+border: 2px solid black;
+}
+
+h2 {
+font-weight: bold;
+font-size: 12pt;
+margin-top: 15px;
+padding-bottom: 2px;
+border-bottom: 1px solid gray;
+}
+
+.lump {
+font-size: 9pt;
+border-bottom: 2px solid gray;
+/*border-left: 2px solid silver;*/
+padding: 5px;
+-moz-column-width: 180px;
+-moz-column-gap: 10px;
+}
+
+.lump_wide {
+border-bottom: 2px solid gray;
+padding: 5px;
+font-size: 8pt;
+}
+
+#all {
+margin: 5px;
+}
+
+a
+{
+padding:5px;
+text-decoration:none;
+}
